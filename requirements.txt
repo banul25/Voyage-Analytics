@@ -38,4 +38,7 @@ python-dotenv==1.0.1
 # Type checking
 mypy==1.10.1
 
+# Streamlit JavaScript component
+streamlit-javascript==0.1.5
+
 matplotlib==3.11.1
